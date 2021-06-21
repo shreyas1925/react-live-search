@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cabin&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Cabin", sans-serif;
+}
+
+.main {
+  text-align: center;
+  margin: 0 auto;
+  height: auto;
+}
+
+.main input {
+  margin: 60px 0px;
+  padding: 10px 10px;
+  border-radius: 10px;
+  width: 20%;
+}
+
+.img {
+  display: grid;
+  place-items: center;
+}
+
+.main h1 {
+  font-size: 60px;
+  font-style: bold;
+}
